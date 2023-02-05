@@ -1,0 +1,17 @@
+#main{
+    display: flex;
+
+}
+
+
+#block{
+    margin-top: 16px;
+    margin-left: 50px;
+    background-color: red;
+    border-radius: 10px;
+    text-decoration: none;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
